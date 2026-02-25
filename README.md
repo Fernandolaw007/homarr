@@ -1,3 +1,25 @@
+# 🦀 Homarr
+
+This repository has been archived and the project was moved to [homarr-labs/homarr](https://github.com/homarr-labs/homarr) with v1+.
+There will be no updates to this old version, but you can enjoy regular updates with v1+.
+
+Usage of this old project is not recommended, however possible.
+
+To migrate please follow the [Migration Guide](https://homarr.dev/blog/2025/01/19/migration-guide-1.0) and read the [Breaking Changes](https://homarr.dev/blog/2024/09/23/version-1.0#breaking-changes)
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 <!-- Project Title -->
 [![Banner](docs/banner.png)](https://homarr.dev/)
 
@@ -39,12 +61,6 @@ Simplify the management of your server with Homarr - a sleek, modern dashboard t
 
 <br/>
 <br/>
-
-
-> [!IMPORTANT]  
-> # The Homarr repository has been moved to [HomarrLabs](https://github.com/homarr-labs/homarr)
-> # Please create issues related to 1.0 there. This repository will be archived once the 1.0 is fully polished.
-> # 1.0 is a complete rewrite and to migrate you have to change your compose file. Please follow the [Migration Guide](https://homarr.dev/blog/2025/01/19/migration-guide-1.0) and read the [Breaking Changes](https://homarr.dev/blog/2024/09/23/version-1.0#breaking-changes)
 
 
 [![Features Section](docs/section-features.png)](https://homarr.dev/)

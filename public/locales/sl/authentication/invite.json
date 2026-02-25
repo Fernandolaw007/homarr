@@ -21,7 +21,7 @@
     "notifications": {
         "loading": {
             "title": "Ustvarjanje računa",
-            "text": "Prosimo, počakajte."
+            "text": "Prosimo, počakajte"
         },
         "success": {
             "title": "Ustvarjen račun",
