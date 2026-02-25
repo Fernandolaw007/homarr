@@ -21,7 +21,7 @@
 					"nothingAfterPort": "V večini primerov, če ne v vseh, za vratom ne smete vnesti nobene poti. (tudi '/admin' za pihole ali '/web' za plex).",
 					"protocolCheck": "Vedno se prepričajte, da je pred naslovom URL http ali https, in preverite, ali uporabljate pravi naslov.",
 					"preferIP": "Priporočljivo je, da uporabite neposredni naslov ip stroja ali posode, s katero želite komunicirati.",
-					"enablePings": "Preverite, ali je naslov IP pravilen, tako da omogočite klicanje (ping). Prilagodi tablo -> Postavitev -> Omogoči pinge. Na ploščicah aplikacije se bo pojavil majhen rdeč ali zelen mehurček, ki bo ob podrsavanju pokazal kodo odziva (v večini primerov se pričakuje zelen mehurček s kodo 200).",
+					"enablePings": "Preverite, ali je naslov IP pravilen, tako da omogočite klicanje (ping). Prilagodi nadzorno ploščo -> Postavitev -> Omogoči pinge. Na gradnikih aplikacije se bo pojavil majhen rdeč ali zelen mehurček, ki bo ob podrsavanju pokazal kodo odziva (v večini primerov se pričakuje zelen mehurček s kodo 200).",
 					"wget": "Če želite zagotoviti, da lahko homarr komunicira z drugimi aplikacijami, poskrbite, da wget/curl/ping določi IP:vrata aplikacije.",
 					"iframe": "Če gre za iframe, morajo ti vedno uporabljati isti protokol (http/s) kot Homarr.",
 					"clearCache": "Nekatere informacije so shranjene v predpomnilniku, zato integracija morda ne bo delovala, če ne počistite predpomnilnika v Homarrovih splošnih možnostih."

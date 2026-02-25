@@ -1,7 +1,7 @@
 {
   "metaTitle": "Prijava",
   "title": "Dobrodošli nazaj!",
-  "text": "Vnesite svoje poverilnice",
+  "text": "Vnesite svoje podatke",
   "form": {
     "fields": {
       "username": {
@@ -14,10 +14,10 @@
     "buttons": {
       "submit": "Prijava"
     },
-    "afterLoginRedirection": "Po prijavi boste preusmerjeni na spletno stran {{url}}.",
+    "afterLoginRedirection": "Po prijavi boste preusmerjeni na spletno stran {{url}}",
     "providersEmpty": {
-      "title": "",
-      "message": ""
+      "title": "Napaka ponudnika ventilacije",
+      "message": "Ponudnik ni nastavljen, za več informacij preverite dnevnike."
     }
   },
   "alert": "Vaše poverilnice so napačne ali pa ta račun ne obstaja. Poskusite znova."
