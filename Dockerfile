@@ -3,8 +3,8 @@
   WORKDIR /app
 
   # Copiar archivos de dependencias primero (aprovecha la caché de Docker)
-  COPY package*.json ./
-  RUN npm ci --only=production
+  COPY package.json yarn.lock ./
+  RUN npm i -g yarn && yarn install --frozen-lockfile
 
   # Copiar el resto del código
   COPY . .
