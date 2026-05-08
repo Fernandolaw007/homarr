@@ -3,7 +3,7 @@ FROM node:18-alpine AS builder
 WORKDIR /app
 # Copiar archivos de dependencias primero (aprovecha la caché de Docker)
 COPY package.json yarn.lock ./
-RUN yarn install --frozen-lockfile
+RUN yarn install
 # Copiar el resto del código
 COPY . .
 # Construir la aplicación Next.js (genera .next/standalone y .next/static)
